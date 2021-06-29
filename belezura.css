@@ -1,0 +1,160 @@
+body {
+background: rgb(0, 0, 0);
+font-family: sans-serif;
+background-image: "bequi.jpeg";
+}
+header{
+    color:white;
+    text-align: center;
+    
+
+}
+body {
+    color:rgb(220, 234, 255);
+    background-image: "bequi.jpeg";
+}
+section{
+background: rgb(0, 0, 0);
+border-radius: 10px;
+padding: 25px;
+margin: auto;
+width: 500px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.575);
+}
+
+footer {
+
+    color:white;
+    text-align: center;
+    font-style: italic;
+    display: block;
+}
+
+#menu-h{
+    background: rgb(242, 194, 4);
+    padding: 18px;
+    color: black;
+    width: 1225px;
+    height: 10px;
+   margin-bottom: 60px;
+   
+
+    
+}
+
+a{
+    color:rgb(36, 10, 49);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-weight: bold;
+    border: 15px none rgb(0, 255, 98);
+}
+
+.estoque {
+    width: 750px;
+    background: rgb(200, 207, 173);
+    border-radius: 5%;
+    margin:auto;
+    display:block;
+    color: black;
+    
+}
+
+.prod {
+    border-radius: 5000pt;
+    border: burlywood solid ;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a:hover {
+    background-color:rgb(200, 207, 173);
+    border-radius: 15%;
+    font-size: 120%;
+}
+
+#logo {
+    width: 80%;
+    display: inline-block;
+    margin: auto;
+    padding-left: 120px;
+}
+
+#quemsomos {
+    background: rgb(200, 207, 173);
+    border: rgba(255, 255, 0, 0.226);
+    color: black;
+    font-weight:40;
+    padding:60px;
+    width: 40%;
+    display: inline-block;
+    width: 50%;
+    float: left;
+    border-radius: 15px;
+
+    
+}
+
+#lateral {
+    float:right;
+    display:inline-block;
+    border: blueviolet;
+    width: 30%;
+    height: 20%;
+}
+
+#eu {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin: auto;
+    display: block;
+    margin-top: -60%;
+    border:solid rgb(200, 207, 173) 15px;
+}
+
+#escritorio {
+    width: 500px;
+    border-radius: 5%;
+    margin: auto;
+    display: block;
+}
+
+#endereco {
+    width: 50%;
+    margin: auto;
+    background: rgb(200, 207, 173);
+    border-radius: 20px;
+    color: black;
+    padding: 4%;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+#predio {
+    width: 80%;
+    margin: auto;
+    border-radius: 5%;
+    display: block;
+}
+
+#bigtela {
+    padding-left: 50px;
+}
+
+.produto-single {
+    width: 33,33%;
+    padding:  0 20px;
+}
+
+#produtos, #carrinho {
+    max-width:900px;
+    margin: 0 auto;
+    background-color: brown;
+    display: flex;
+    padding: 0 2%;
+}
